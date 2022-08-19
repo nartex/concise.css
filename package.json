@@ -1,5 +1,5 @@
 {
-  "name": "concise.css",
+  "name": "nartex.concise.css",
   "bin": {
     "concise": "./bin/index.js"
   },
